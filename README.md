@@ -87,7 +87,16 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
----
+## 📊 GitHub Repository Stats
+
+### 🌀 Repositories Overview
+
+| Metric                | Count | Badge |
+|----------------------|-------|---------------------------------------------------------|
+| 🧷 Public Repos       | 21    | ![Public](https://img.shields.io/badge/Public%20Repos-21-blue) |
+| 🔐 Private Repos      | 51    | ![Private](https://img.shields.io/badge/Private%20Repos-51-green) |
+| 🏢 Org Contributions  | 7     | ![Org](https://img.shields.io/badge/Org%20Contributions-7-purple) |
+
 
 ### 📊 GitHub Stats
 
@@ -96,7 +105,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwanth-prakash&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanth-Prakash&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="left">
