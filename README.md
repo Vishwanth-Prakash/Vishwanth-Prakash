@@ -94,7 +94,7 @@
 | Metric                | Count | Badge |
 |----------------------|-------|---------------------------------------------------------|
 | 🧷 Public Repos       | 21    | ![Public](https://img.shields.io/badge/Public%20Repos-21-blue) |
-| 🔐 Private Repos      | 51    | ![Private](https://img.shields.io/badge/Private%20Repos-51-green) |
+| 🔐 Private Repos      | 53    | ![Private](https://img.shields.io/badge/Private%20Repos-51-green) |
 | 🏢 Org Contributions  | 7     | ![Org](https://img.shields.io/badge/Org%20Contributions-7-purple) |
 
 
